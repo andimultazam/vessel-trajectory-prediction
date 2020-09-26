@@ -8,6 +8,11 @@ This is a final project developed as part of master degree requirement at Comput
   - [Exploratory Data Analysis](#exploratory-data-analysis)
     - [Data Description](#data-description)
     - [Data Preprocessing](#data-preprocessing)
+    - [Data Visualization](#data-visualization)
+  - [Prediction Model](#prediction-model)
+    - [Machine Learning Model](#machine-learning-model)
+    - [Neural Network Model](#neural-network-model)
+  - [Result and Evalutation](#result-and-evalutation)
 
 ## Introduction
 Singapore maintains its position as the leading maritime capital in the world for being tops in three pillars including Shipping, Ports and Logistics, Attractiveness and Competitiveness, and for the remaining pillars, Singapore is ranked as top 10 cities. As Singapore continues to become one of the world’s busiest port in the world, the Maritime Port Authority (MPA) needs to enhance maritime security at Singapore water against dangerous adversaries such as piracy attacks, armed robbery, crew abduction, or smuggling. 
@@ -28,4 +33,10 @@ The first 6 bits of the binary payload are the message type. There are 27 messag
 The following table is a snapshot of what AIS data looks like after being decoded from the payload. ![overview of ais records](img/overview_ais_records.png)
 
 ### Data Preprocessing
+### Data Visualization
 
+## Prediction Model
+### Machine Learning Model
+### Neural Network Model
+
+## Result and Evalutation
