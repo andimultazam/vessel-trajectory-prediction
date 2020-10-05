@@ -1,0 +1,20 @@
+\begin{refsection}
+\nocite{%
+}
+
+\defbibnote{PubListPrenote}{%
+% provide some text, if any, before the list of publications
+}
+\defbibnote{PubListPostnote}{%
+% provide some text, if any, after the list of publications
+}
+
+\bookmarksetup{startatroot}
+\newrefcontext[sorting=none]
+\printbibliography[
+  heading=bibintoc,
+  title={Bibliography},
+  prenote=PubListPrenote,
+  postnote=PubListPostnote
+]
+\end{refsection}
